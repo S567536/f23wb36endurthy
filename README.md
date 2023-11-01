@@ -5,4 +5,4 @@ render server:https://f23wb36endurthy.onrender.com
 class Phone<br>
 PhoneName:string<br>
 Phone_price:number<br>
-Phone Storage:number
+Phone_Storage:number
