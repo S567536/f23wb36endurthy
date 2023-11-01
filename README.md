@@ -2,7 +2,7 @@
 render server:https://f23wb36endurthy.onrender.com
 
 
-class Phone
-PhoneId:string
-Phone_price:number
+class Phone<br>
+PhoneName:string<br>
+Phone_price:number<br>
 Phone Storage:number
